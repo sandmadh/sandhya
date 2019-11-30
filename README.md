@@ -1,2 +1,1 @@
-# sandhya
-tutorials
+this branch includes inferential statistics exercises
